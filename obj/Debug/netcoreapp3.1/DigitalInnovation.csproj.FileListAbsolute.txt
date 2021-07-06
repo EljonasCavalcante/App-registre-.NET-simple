@@ -1,0 +1,13 @@
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.exe
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.deps.json
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.runtimeconfig.json
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.runtimeconfig.dev.json
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.dll
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.pdb
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.csprojAssemblyReference.cache
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.AssemblyInfoInputs.cache
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.AssemblyInfo.cs
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.csproj.CoreCompileInputs.cache
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.dll
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.pdb
+C:\Users\eljon\Documents\PROJECT\PROJECT .NET\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.genruntimeconfig.cache
